@@ -7,3 +7,10 @@
     "build": "webpack --mode production"
 }
 > npm run build
+
+# npm i uuid
+
+-npm remove uuid-
+
+
+>npm i -D sass style-loader css-loader sass-loader
